@@ -1,0 +1,547 @@
+{
+ "updated": "2026-10-08",
+ "updated_it": "8 ottobre 2026",
+ "listings": [
+  {
+   "sec": "casa",
+   "loc": "Monesiglio — Loc. Pozzi/Lisini",
+   "valle": "Monesiglio",
+   "alt": 373,
+   "price": 58000,
+   "sqm": 100,
+   "tip": "Casa indipendente in pietra, 2 camere, 4 lati liberi",
+   "stato": "buono",
+   "note": "Oltre 1.000 mq di terreno privato; pronta da abitare, tetto in ordine (classe G)",
+   "top": true,
+   "added": "2026-10-08",
+   "links": [
+    [
+     "idealista",
+     "https://www.idealista.it/immobile/35891730/"
+    ],
+    [
+     "immobiliare.it",
+     "https://www.immobiliare.it/annunci/129605948/"
+    ],
+    [
+     "casa.it",
+     "https://www.casa.it/immobili/54121565/"
+    ]
+   ],
+   "photo": "https://img4.idealista.it/blur/WEB_DETAIL-M-L/0/id.pro.it.image.master/5f/0c/64/806550681.jpg"
+  },
+  {
+   "sec": "casa",
+   "loc": "Mombarcaro — centro",
+   "valle": "Mombarcaro",
+   "alt": 896,
+   "price": 70000,
+   "sqm": 200,
+   "tip": "Casale indipendente arredato, 2 camere, 4 lati liberi",
+   "stato": "buono",
+   "note": "Giardino privato; terreno adiacente acquistabile a parte. N. camere in scheda incoerente: verificare",
+   "added": "2026-10-08",
+   "links": [
+    [
+     "immobiliare.it",
+     "https://www.immobiliare.it/annunci/92330120/"
+    ]
+   ],
+   "photo": "https://pwm.im-cdn.it/image/1508474941/m-c.jpg"
+  },
+  {
+   "sec": "casa",
+   "loc": "Mombarcaro — Borgata Valle (Bragioli)",
+   "valle": "Mombarcaro",
+   "alt": 896,
+   "price": 73000,
+   "sqm": 154,
+   "tip": "Casa indipendente, 2 camere, 4 lati liberi",
+   "stato": "buono",
+   "note": "Giardino pianeggiante che circonda la casa; interventi ridotti al minimo",
+   "top": true,
+   "added": "2026-10-08",
+   "links": [
+    [
+     "idealista",
+     "https://www.idealista.it/immobile/31483239/"
+    ],
+    [
+     "immobiliare.it",
+     "https://www.immobiliare.it/annunci/116941289/"
+    ],
+    [
+     "casa.it",
+     "https://www.casa.it/immobili/53022377/"
+    ]
+   ],
+   "photo": "https://img4.idealista.it/blur/WEB_DETAIL-M-L/0/id.pro.it.image.master/81/bd/e2/655071123.jpg"
+  },
+  {
+   "sec": "casa",
+   "loc": "Paroldo — Fraz. San Rocco",
+   "valle": "Paroldo",
+   "alt": 650,
+   "price": 78000,
+   "sqm": 300,
+   "tip": "Casale, 3 camere, 4 lati liberi",
+   "stato": "abit",
+   "note": "Giardino privato ~700 mq; struttura in ottime condizioni; riscaldamento solo a stufa a legna (eventuale impianto da aggiungere)",
+   "added": "2026-10-08",
+   "links": [
+    [
+     "immobiliare.it",
+     "https://www.immobiliare.it/annunci/131684724/"
+    ]
+   ],
+   "photo": "https://pwm.im-cdn.it/image/1987005374/m-c.jpg"
+  },
+  {
+   "sec": "casa",
+   "loc": "Levice",
+   "valle": "Levice",
+   "alt": 440,
+   "price": 79000,
+   "sqm": 200,
+   "tip": "Villa unifamiliare, 2 camere (+ studio trasformabile in 3ª), 3 lati liberi",
+   "stato": "buono",
+   "note": "Giardino privato + terreno ~1.200 mq, portico con forno; riscaldamento GPL",
+   "top": true,
+   "added": "2026-10-08",
+   "links": [
+    [
+     "immobiliare.it",
+     "https://www.immobiliare.it/annunci/127278963/"
+    ],
+    [
+     "casa.it",
+     "https://www.casa.it/immobili/53478022/"
+    ]
+   ],
+   "photo": "https://pwm.im-cdn.it/image/1880750219/m-c.jpg"
+  },
+  {
+   "sec": "casa",
+   "loc": "Prunetto — 2 unità collegate",
+   "valle": "Prunetto",
+   "alt": 700,
+   "price": 80000,
+   "sqm": 390,
+   "tip": "Casa indipendente (2 unità), 4 camere",
+   "stato": "buono",
+   "note": "Giardinetto d'ingresso + fasce di terreno; eventuale efficientamento (classe G)",
+   "added": "2026-10-08",
+   "links": [
+    [
+     "casa.it",
+     "https://www.casa.it/immobili/49661937/"
+    ]
+   ],
+   "photo": "https://images-1.casa.it/800x600/listing/0/37/b5/5b/627508393.jpg"
+  },
+  {
+   "sec": "casa",
+   "loc": "Prunetto — borgata presso il centro",
+   "valle": "Prunetto",
+   "alt": 700,
+   "price": 85000,
+   "sqm": 150,
+   "tip": "Terratetto indipendente ristrutturato, 3 camere, 2 bagni",
+   "stato": "rist",
+   "note": "Giardino ~280 mq + ~4.000 mq di terreno (1.000 edificabili), pozzo — Piemonte Houses",
+   "top": true,
+   "added": "2026-10-08",
+   "links": [
+    [
+     "immobiliare.it",
+     "https://www.immobiliare.it/annunci/127862872/"
+    ],
+    [
+     "casa.it",
+     "https://www.casa.it/immobili/46567398/"
+    ]
+   ],
+   "photo": "https://pwm.im-cdn.it/image/1894876642/m-c.jpg"
+  },
+  {
+   "sec": "casa",
+   "loc": "Prunetto — Borgata Serra Carro",
+   "valle": "Prunetto",
+   "alt": 700,
+   "price": 85000,
+   "sqm": 160,
+   "tip": "Casa indipendente, 6 locali, 2 bagni",
+   "stato": "rist",
+   "note": "Completamente ristrutturata; giardino privato + ricovero attrezzi in pietra. Camere non esplicitate: verificare",
+   "added": "2026-10-08",
+   "links": [
+    [
+     "casa.it",
+     "https://www.casa.it/immobili/39348454/"
+    ]
+   ],
+   "photo": "https://images-1.casa.it/800x600/listing/f71e88c44c36fa21673879562294038f"
+  },
+  {
+   "sec": "casa",
+   "loc": "Cossano Belbo — Loc. San Martino",
+   "valle": "Cossano Belbo",
+   "alt": 244,
+   "price": 88000,
+   "sqm": 250,
+   "tip": "Cascina, 3 camere, 2 bagni, 3 lati liberi",
+   "stato": "rist",
+   "note": "~2.000 mq di terreno in corpo unico, accesso privato; ristrutturata nel 2000, classe C, fotovoltaico + pompa di calore",
+   "top": true,
+   "added": "2026-10-08",
+   "links": [
+    [
+     "immobiliare.it",
+     "https://www.immobiliare.it/annunci/127802236/"
+    ],
+    [
+     "casa.it",
+     "https://www.casa.it/immobili/53634758/"
+    ]
+   ],
+   "photo": "https://pwm.im-cdn.it/image/1893310638/m-c.jpg"
+  },
+  {
+   "sec": "casa",
+   "loc": "Gorzegno — Fraz. Canoretto (SP Valle Bormida)",
+   "valle": "Gorzegno",
+   "alt": 390,
+   "price": 90000,
+   "sqm": 141,
+   "tip": "Villa indipendente, 3 camere matrimoniali, doppio box",
+   "stato": "buono",
+   "note": "Area privata pianeggiante attorno; subito abitabile, ammodernamento facoltativo (classe G)",
+   "added": "2026-10-08",
+   "links": [
+    [
+     "immobiliare.it",
+     "https://www.immobiliare.it/annunci/130759356/"
+    ],
+    [
+     "casa.it",
+     "https://www.casa.it/immobili/54406617/"
+    ]
+   ],
+   "photo": "https://pwm.im-cdn.it/image/1966139346/m-c.jpg"
+  },
+  {
+   "sec": "casa",
+   "loc": "Prunetto — Borgata Serra",
+   "valle": "Prunetto",
+   "alt": 700,
+   "price": 90000,
+   "sqm": 128,
+   "tip": "Casa indipendente, 3 camere, 2 ingressi + box 53 mq",
+   "stato": "abit",
+   "note": "Terreni privati ~4.610 mq (in parte edificabili); il giardino di borgata è in comune",
+   "added": "2026-10-08",
+   "links": [
+    [
+     "casa.it",
+     "https://www.casa.it/immobili/49550066/"
+    ]
+   ],
+   "photo": "https://images-1.casa.it/800x600/listing/0/28/6e/d8/585019436.jpg"
+  },
+  {
+   "sec": "casa",
+   "loc": "San Benedetto Belbo — Loc. Mezzali",
+   "valle": "San Benedetto Belbo",
+   "alt": 610,
+   "price": 95000,
+   "sqm": 134,
+   "tip": "Villa unifamiliare, 2 camere",
+   "stato": "buono",
+   "note": "Cortile ~310 mq + terreno 4.559 mq, grande privacy (classe F, GPL)",
+   "top": true,
+   "added": "2026-10-08",
+   "links": [
+    [
+     "immobiliare.it",
+     "https://www.immobiliare.it/annunci/132214902/"
+    ]
+   ],
+   "photo": "https://pwm.im-cdn.it/image/1999572468/m-c.jpg"
+  },
+  {
+   "sec": "casa",
+   "loc": "Belvedere Langhe — Via Donadei",
+   "valle": "Belvedere Langhe",
+   "alt": 679,
+   "price": 95000,
+   "sqm": 275,
+   "tip": "Villa indipendente, 2 camere + mansarda 120 mq",
+   "stato": "buono",
+   "note": "Giardino 700-1.500 mq (dato da verificare); subito abitabile, aggiornamento estetico anni '80 facoltativo",
+   "added": "2026-10-08",
+   "links": [
+    [
+     "immobiliare.it",
+     "https://www.immobiliare.it/annunci/122030874/"
+    ]
+   ],
+   "photo": "https://pwm.im-cdn.it/image/1752798130/m-c.jpg"
+  },
+  {
+   "sec": "casa",
+   "loc": "San Benedetto Belbo — Via della Porta",
+   "valle": "San Benedetto Belbo",
+   "alt": 610,
+   "price": 98000,
+   "sqm": 400,
+   "tip": "Bifamiliare: 2 fabbricati indipendenti, 6 camere",
+   "stato": "buono",
+   "riserva": true,
+   "note": "Giardino attorno agli edifici; tetto in parte già rifatto, completamento da valutare",
+   "added": "2026-10-08",
+   "links": [
+    [
+     "immobiliare.it",
+     "https://www.immobiliare.it/annunci/132513518/"
+    ]
+   ],
+   "photo": "https://pwm.im-cdn.it/image/2006590196/m-c.jpg"
+  },
+  {
+   "sec": "casa",
+   "loc": "Prunetto — Borgata Maccia",
+   "valle": "Prunetto",
+   "alt": 700,
+   "price": 98000,
+   "sqm": 230,
+   "tip": "Villa semindipendente, 3+ camere, garage ~70 mq",
+   "stato": "buono",
+   "note": "Giardino + terreno >7.500 mq quasi pianeggiante; ATTENZIONE: lati liberi da verificare (dichiarata semindipendente)",
+   "added": "2026-10-08",
+   "links": [
+    [
+     "casa.it",
+     "https://www.casa.it/immobili/53129122/"
+    ]
+   ],
+   "photo": "https://images-1.casa.it/800x600/listing/0/aa/7b/d0/589657204.jpg"
+  },
+  {
+   "sec": "casa",
+   "loc": "Prunetto — Loc. Sulite",
+   "valle": "Prunetto",
+   "alt": 700,
+   "price": 109000,
+   "sqm": 210,
+   "tip": "Villa unifamiliare, 3-4 camere, doppio garage interrato",
+   "stato": "abit",
+   "note": "Terreno 800-1.000 mq + cortile; cucina/bagno recenti, impianti anni '70 e serramenti da aggiornare",
+   "added": "2026-10-08",
+   "links": [
+    [
+     "immobiliare.it",
+     "https://www.immobiliare.it/annunci/109466505/"
+    ]
+   ],
+   "photo": "https://pwm.im-cdn.it/image/1475644345/m-c.jpg"
+  },
+  {
+   "sec": "casa",
+   "loc": "Prunetto — località riservata",
+   "valle": "Prunetto",
+   "alt": 700,
+   "price": 110000,
+   "sqm": 250,
+   "tip": "Cascina in pietra ristrutturata, 5 camere, 3 bagni, 4 lati liberi",
+   "stato": "rist",
+   "note": "Giardino privato + terreno ~8.000 mq, completamente indipendente",
+   "top": true,
+   "added": "2026-10-08",
+   "links": [
+    [
+     "idealista",
+     "https://www.idealista.it/immobile/35553734/"
+    ]
+   ],
+   "photo": "https://img4.idealista.it/blur/WEB_DETAIL-M-L/0/id.pro.it.image.master/dd/56/51/795292975.jpg"
+  },
+  {
+   "sec": "casa",
+   "loc": "Prunetto — centro paese",
+   "valle": "Prunetto",
+   "alt": 700,
+   "price": 119000,
+   "sqm": 130,
+   "tip": "Casa di paese indipendente, 2 camere, 4 lati liberi, 3 terrazzi",
+   "stato": "buono",
+   "note": "Terreno e cortile di proprietà; non necessita ristrutturazione, solo rinfrescata estetica",
+   "added": "2026-10-08",
+   "links": [
+    [
+     "idealista",
+     "https://www.idealista.it/immobile/32204446/"
+    ],
+    [
+     "casa.it",
+     "https://www.casa.it/immobili/51095630/"
+    ]
+   ],
+   "photo": "https://img4.idealista.it/blur/WEB_DETAIL-M-L/0/id.pro.it.image.master/6d/05/66/676924505.jpg"
+  },
+  {
+   "sec": "casa",
+   "loc": "Niella Belbo — centro",
+   "valle": "Niella Belbo",
+   "alt": 770,
+   "price": 120000,
+   "sqm": 370,
+   "tip": "Terratetto completamente indipendente, 4 camere",
+   "stato": "buono",
+   "note": "Giardino antistante ~200 mq + terrazza; finiture anni '80 da aggiornare. Annuncio datato 2023: verificare disponibilità",
+   "added": "2026-10-08",
+   "links": [
+    [
+     "immobiliare.it",
+     "https://www.immobiliare.it/annunci/104876511/"
+    ]
+   ],
+   "photo": "https://pwm.im-cdn.it/image/1374087751/m-c.jpg"
+  },
+  {
+   "sec": "casa",
+   "loc": "Bossolasco — borgata tipica",
+   "valle": "Bossolasco",
+   "alt": 757,
+   "price": 120000,
+   "sqm": 150,
+   "tip": "Cascinale, 6 locali, 2 bagni, 3 lati liberi",
+   "stato": "abit",
+   "riserva": true,
+   "note": "Giardino sui 3 lati liberi + 4 posti auto; scheda contraddittoria (descrizione: lavori già eseguiti / scheda tecnica: da ristrutturare) — chiarire con l'agenzia",
+   "added": "2026-10-08",
+   "links": [
+    [
+     "casa.it",
+     "https://www.casa.it/immobili/47852141/"
+    ]
+   ],
+   "photo": "https://images-1.casa.it/800x600/listing/0/d9/35/cb/555937039.jpg"
+  },
+  {
+   "sec": "casa",
+   "loc": "Mombarcaro — Fraz. Costalunga",
+   "valle": "Mombarcaro",
+   "alt": 896,
+   "price": 129000,
+   "sqm": 400,
+   "tip": "Villa bifamiliare, 5 camere",
+   "stato": "buono",
+   "note": "Cortile privato + giardino interamente recintato; ottimo stato manutentivo",
+   "added": "2026-10-08",
+   "links": [
+    [
+     "immobiliare.it",
+     "https://www.immobiliare.it/annunci/109818431/"
+    ],
+    [
+     "idealista",
+     "https://www.idealista.it/immobile/22555574/"
+    ]
+   ],
+   "photo": "https://pwm.im-cdn.it/image/1754306202/m-c.jpg"
+  },
+  {
+   "sec": "casa",
+   "loc": "Gottasecca — Via Santuario",
+   "valle": "Gottasecca",
+   "alt": 620,
+   "price": 135000,
+   "sqm": 248,
+   "tip": "Ex cascina piemontese indipendente, 2 bagni",
+   "stato": "abit",
+   "riserva": true,
+   "note": "~1.000 mq attorno + cortile interno (altri ~8 ha acquistabili); abitabile ma richiede lavori di ammodernamento. Camere in scheda anomale: verificare",
+   "added": "2026-10-08",
+   "links": [
+    [
+     "immobiliare.it",
+     "https://www.immobiliare.it/annunci/128935644/"
+    ]
+   ],
+   "photo": "https://pwm.im-cdn.it/image/1920778948/m-c.jpg"
+  },
+  {
+   "sec": "casa",
+   "loc": "Bossolasco — Via Alba",
+   "valle": "Bossolasco",
+   "alt": 757,
+   "price": 145000,
+   "sqm": 149,
+   "tip": "Villetta libera su 3 lati, 3-4 camere, garage",
+   "stato": "buono",
+   "note": "Giardino recintato; libera subito, solo tinteggiatura",
+   "added": "2026-10-08",
+   "links": [
+    [
+     "idealista",
+     "https://www.idealista.it/immobile/35873191/"
+    ],
+    [
+     "immobiliare.it",
+     "https://www.immobiliare.it/annunci/61584072/"
+    ]
+   ],
+   "photo": "https://img4.idealista.it/blur/WEB_DETAIL-M-L/0/id.pro.it.image.master/d9/17/df/805887863.jpg"
+  }
+ ],
+ "seen": {
+  "immobiliare": [
+   92330120,
+   116941289,
+   109818431,
+   127862872,
+   127278963,
+   132214902,
+   132513518,
+   127802236,
+   130759356,
+   131684724,
+   129605948,
+   128935644,
+   122601450,
+   61584072,
+   122030874,
+   109466505,
+   104876511,
+   130874590,
+   123271235,
+   127747846,
+   128317596,
+   109694925
+  ],
+  "idealista": [
+   31483239,
+   22555574,
+   32204446,
+   35553734,
+   35891730,
+   35873191
+  ],
+  "casa": [
+   54121565,
+   53022377,
+   53478022,
+   49661937,
+   46567398,
+   39348454,
+   53634758,
+   49550066,
+   54406617,
+   53129122,
+   51095630,
+   47852141
+  ],
+  "subito": [],
+  "altri": []
+ }
+}
